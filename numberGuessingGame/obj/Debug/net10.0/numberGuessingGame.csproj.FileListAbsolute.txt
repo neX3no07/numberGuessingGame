@@ -1,0 +1,14 @@
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net10.0/numberGuessingGame
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net10.0/numberGuessingGame.deps.json
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net10.0/numberGuessingGame.runtimeconfig.json
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net10.0/numberGuessingGame.dll
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net10.0/numberGuessingGame.pdb
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.AssemblyInfoInputs.cache
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.AssemblyInfo.cs
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.dll
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/refint/numberGuessingGame.dll
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.pdb
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/numberGuessingGame.genruntimeconfig.cache
+/Users/andreykhen/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net10.0/ref/numberGuessingGame.dll
